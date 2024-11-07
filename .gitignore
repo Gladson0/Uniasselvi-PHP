@@ -2,3 +2,4 @@
 database/*.sql     # Backup do banco (pode incluir uma cópia com o backup apenas)
 vendor/            # Pasta de dependências do Composer, se houver
 node_modules/      # Pasta de dependências do Node.js, se houver
+ngrok-v3-stable-windows-amd64
