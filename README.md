@@ -17,6 +17,8 @@ Este projeto é uma aplicação em PHP que usa MySQL como banco de dados e bibli
 
 ## Instalação
 
+**Obs: Para uso local em sua máquina você deve ter o PHP instalado e um servidor mysql (ou poderá usar um online).**
+
 ### 1. Clonar o repositório
 
 git clone https://github.com/Gladson0/Uniasselvi-PHP.git
