@@ -5,7 +5,8 @@
 Este projeto é um controle de inscrição de alunos e seus respectivos cursos.
 Ele foi feito para o seminário do curso de Análise e Desenvolvimento de Sistemas.
 O objetivo deste projeto é ser a prática dos estudos em desenvolvimento web com um CRUD realizando as 4 operações básicas (Create, Read, Update, Delete).
-Este projeto é uma aplicação em PHP que usa MySQL como banco de dados.
+
+Este projeto é uma aplicação em PHP que usa MySQL como banco de dados e bibliotecas do bootstrap.
 
 ## Requisitos
 
@@ -50,3 +51,14 @@ Abra o navegador e acesse http://localhost:8000 para verificar se tudo está fun
 Envie os arquivos do projeto para o servidor.
 Configure o .env com os dados do servidor.
 Importe o banco de dados backup.sql no MySQL do servidor.
+
+Criadores 👨‍💻 👩‍💻:
+• Marcelo Evangelista
+• Mayara
+• Gladson Bernardo dos Santos
+• Rodrigo T
+
+Orientador do projeto 👨‍🏫:
+•	Emeson Borges
+
+Para testar nosso projeto, acesse o link abaixo
