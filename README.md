@@ -52,13 +52,19 @@ Envie os arquivos do projeto para o servidor.
 Configure o .env com os dados do servidor.
 Importe o banco de dados backup.sql no MySQL do servidor.
 
-Criadores 👨‍💻 👩‍💻:
-• Marcelo Evangelista
-• Mayara
-• Gladson Bernardo dos Santos
-• Rodrigo T
+# Criadores 👨‍💻 👩‍💻:
 
-Orientador do projeto 👨‍🏫:
-•	Emeson Borges
+**Marcelo Evangelista**
+
+**Mayara**
+
+**Gladson Bernardo dos Santos**
+
+**Rodrigo T.**
+
+
+# Orientador do projeto 👨‍🏫:
+
+**Emeson Borges**
 
 Para testar nosso projeto, acesse o link abaixo
