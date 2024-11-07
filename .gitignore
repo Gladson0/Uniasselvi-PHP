@@ -1,0 +1,4 @@
+.env               # Arquivo real de variáveis de ambiente
+database/*.sql     # Backup do banco (pode incluir uma cópia com o backup apenas)
+vendor/            # Pasta de dependências do Composer, se houver
+node_modules/      # Pasta de dependências do Node.js, se houver
