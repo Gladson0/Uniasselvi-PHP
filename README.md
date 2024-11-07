@@ -14,5 +14,4 @@ Este projeto é uma aplicação em PHP que usa MySQL como banco de dados.
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Gladson0/Uniasselvi-PHP.git
