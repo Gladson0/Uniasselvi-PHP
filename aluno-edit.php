@@ -20,7 +20,7 @@ require "conexao.php";
                 <div class="card">
                     <div class="card-header">
                         <h4>Editar Aluno
-                            <a href="index.php" class="btn btn-danger float-end"><span class="bi-backspace-fill"></span>&nbsp;Voltar</a>
+                            <a href="dash.php" class="btn btn-danger float-end"><span class="bi-backspace-fill"></span>&nbsp;Voltar</a>
                         </h4>
                     </div>
                     <div class="card-body">

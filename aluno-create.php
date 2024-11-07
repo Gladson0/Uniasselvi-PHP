@@ -16,7 +16,7 @@
          <div class="card">
          <div class="card-header">
           <h4>Adicionar Aluno
-            <a href="index.php" class="btn btn-danger float-end"><span class="bi-backspace-fill"></span>&nbsp;Voltar</a>
+            <a href="dash.php" class="btn btn-danger float-end"><span class="bi-backspace-fill"></span>&nbsp;Voltar</a>
           </h4>
          </div>
          <div class="card-body">
@@ -27,7 +27,7 @@
             </div>
             <div class="mb-3">
               <label>Email</label>
-              <input type="text" name="email_aluno" class="form-control">
+              <input type="email" name="email_aluno" class="form-control">
             </div>
            <div class="mb-3">
               <label>Data de Nascimento</label>

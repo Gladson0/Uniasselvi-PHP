@@ -4,5 +4,4 @@ define('USER', 'root');
 define('PASSWORD','');
 define('DATA', 'uniasselvi');
 
-$conexao = mysqli_connect(SERVER, USER, PASSWORD, DATA) or die ('Não foi possicel conectar');
-?>
+$conexao = mysqli_connect(SERVER, USER, PASSWORD, DATA) or die ('Não foi possivel conectar');
