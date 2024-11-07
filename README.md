@@ -1,0 +1,18 @@
+# Gestão de Alunos
+
+Este projeto é uma aplicação em PHP que usa MySQL como banco de dados.
+
+## Requisitos
+
+- PHP >= 7.4
+- MySQL
+- Composer (opcional, se o projeto usa dependências PHP externas)
+- Git
+
+## Instalação
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/usuario/nome-do-repositorio.git
+cd nome-do-repositorio
