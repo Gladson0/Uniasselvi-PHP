@@ -68,5 +68,3 @@ Importe o banco de dados backup.sql no MySQL do servidor.
 # Orientador do projeto 👨‍🏫:
 
 **Emeson Borges**
-
-Para testar nosso projeto, acesse o link abaixo
